@@ -22,7 +22,7 @@ export const productsDb = [
 ];
 
 
-export const userDb = [
+export const usersDb = [
     {
         email: "test@test.com",
         password: "userPassword",

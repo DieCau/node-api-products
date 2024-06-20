@@ -10,7 +10,7 @@ import {
     edit,
     findByIdAndDelete,
     searchWithOptions
-} from '../controllers/product.Controllers';
+} from '../controllers/product.Controllers.js';
 
 router.get('products', getAll);
 router.get('product/id/:id', getById);
