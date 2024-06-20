@@ -1,4 +1,4 @@
-export const productDb = [
+export const productsDb = [
     {
         name: "Botella Rosa",
         price: 3200,
